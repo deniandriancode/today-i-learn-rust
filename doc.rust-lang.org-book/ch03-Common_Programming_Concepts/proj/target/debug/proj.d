@@ -1,0 +1,1 @@
+/home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch03-Common_Programming_Concepts/proj/target/debug/proj: /home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch03-Common_Programming_Concepts/proj/src/main.rs
