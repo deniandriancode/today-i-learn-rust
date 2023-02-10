@@ -1,0 +1,1 @@
+/home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch05-Using_Structs_to_Structure_Related_Data/begin_struct/target/debug/begin_struct: /home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch05-Using_Structs_to_Structure_Related_Data/begin_struct/src/main.rs

@@ -1,0 +1,1 @@
+/home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch10-Generic_Types_Traits_and_Lifetimes/generic_fn/target/debug/generic_fn: /home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch10-Generic_Types_Traits_and_Lifetimes/generic_fn/src/main.rs
