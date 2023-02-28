@@ -1,6 +1,0 @@
-    Finished dev [unoptimized + debuginfo] target(s) in 0.08s
-     Running `target/debug/minigrep to poem.txt output.txt`
-Searching for to
-In file poem.txt
-Are you nobody, too?
-How dreary to be somebody!

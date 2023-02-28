@@ -1,1 +1,0 @@
-/home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch08-Common_Collections/vector/target/debug/vector: /home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch08-Common_Collections/vector/src/main.rs

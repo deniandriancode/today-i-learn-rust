@@ -29,5 +29,5 @@ pub mod utils {
     /// a secondary color.
     pub fn mix(c1: PrimaryColor, c2: PrimaryColor) -> SecondaryColor {
 	Orange
-    }
+    }ciovojQOwbK6S2mtjVUvqSaV8cq60NbQKpW
 }

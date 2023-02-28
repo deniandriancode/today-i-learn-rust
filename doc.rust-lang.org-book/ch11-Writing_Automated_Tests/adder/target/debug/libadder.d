@@ -1,1 +1,0 @@
-/home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch11-Writing_Automated_Tests/adder/target/debug/libadder.rlib: /home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch11-Writing_Automated_Tests/adder/src/lib.rs

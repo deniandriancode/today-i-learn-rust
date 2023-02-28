@@ -1,1 +1,0 @@
-/home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch04-Understanding_Ownership/slice/target/debug/slice: /home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch04-Understanding_Ownership/slice/src/main.rs

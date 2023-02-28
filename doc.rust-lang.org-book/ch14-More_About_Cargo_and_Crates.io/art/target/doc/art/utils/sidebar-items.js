@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":[["mix","Combines two primary colors in equal amounts to create a secondary color."]]};

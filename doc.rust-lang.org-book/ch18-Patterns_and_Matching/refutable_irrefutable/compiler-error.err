@@ -1,0 +1,27 @@
+   Compiling refutable_irrefutable v0.1.0 (/home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch18-Patterns_and_Matching/refutable_irrefutable)
+error[E0005]: refutable pattern in local binding: `None` not covered
+ --> src/main.rs:2:9
+  |
+2 |     let Some(x) = Some(8);
+  |         ^^^^^^^ pattern `None` not covered
+  |
+  = note: `let` bindings require an "irrefutable pattern", like a `struct` or an `enum` with only one variant
+  = note: for more information, visit https://doc.rust-lang.org/book/ch18-02-refutability.html
+note: `Option<i32>` defined here
+  = note: the matched value is of type `Option<i32>`
+help: you might want to use `if let` to ignore the variant that isn't matched
+  |
+2 |     let x = if let Some(x) = Some(8) { x } else { todo!() };
+  |     ++++++++++                       ++++++++++++++++++++++
+
+warning: unused variable: `x`
+ --> src/main.rs:2:14
+  |
+2 |     let Some(x) = Some(8);
+  |              ^ help: if this is intentional, prefix it with an underscore: `_x`
+  |
+  = note: `#[warn(unused_variables)]` on by default
+
+For more information about this error, try `rustc --explain E0005`.
+warning: `refutable_irrefutable` (bin "refutable_irrefutable") generated 1 warning
+error: could not compile `refutable_irrefutable` due to previous error; 1 warning emitted

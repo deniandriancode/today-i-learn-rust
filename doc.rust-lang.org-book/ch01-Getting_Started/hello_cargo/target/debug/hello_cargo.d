@@ -1,1 +1,0 @@
-/home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch01-Getting_Started/hello_cargo/target/debug/hello_cargo: /home/deni/Git/today-i-learn-rust/doc.rust-lang.org-book/ch01-Getting_Started/hello_cargo/src/main.rs
